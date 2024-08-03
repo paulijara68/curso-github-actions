@@ -346,7 +346,7 @@ Los más usados son:
   TBD-step-5-notes.
 -->
 
-<details id=5 open>
+<details id=5>
 <summary><h2>Paso 5: Aprende a usar las Variables de Entorno</h2></summary>
 
 ¡Ya estás a un paso de terminar! :heart:
@@ -394,7 +394,7 @@ El uso de variables de entorno es lo único que te falta por aprender de los pri
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-<details id=X>
+<details id=X open>
 <summary><h2>Cierre</h2></summary>
 
 _¡Felicidades! haz completado esta sección del Curso Básico de GitHub Actions_
